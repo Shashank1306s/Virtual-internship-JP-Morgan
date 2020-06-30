@@ -1,6 +1,6 @@
 # Virtual-internship-JP-Morgan
 
-This repository contains the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship
+This repository contains certificate provided by JPMorgan Chase & Co. Software Engineering Virtual Internship
 
 # Website link
 
